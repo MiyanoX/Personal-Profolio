@@ -44,41 +44,33 @@ export const headerLanguageMap = {
 
 export const experiencesData = [
     {
-        title: "MSc in Computing and IT",
-        location: "University of St Andrews, UK",
+        title: "IT Engineer Intern",
+        location: "Tencent Japan, Tokyo",
         description:
-            "Achieved a Master's degree in Computing and IT, acquiring in-depth knowledge in areas such as Human Computer Interaction, Computer Communication Systems, and Information Security. Developed strong capabilities in computational thinking, user-centred design, and data visualisation, preparing for effective application in technology-driven environments",
-        icon: React.createElement(LuGraduationCap),
-        date: "2023 Sep - 2024 May",
-    },
-    {
-        title: "Frontend Intern",
-        location: React.createElement("span", {},
-            React.createElement("a", {
-                href: "https://www.nio.com/",
-                style: { textDecoration: 'underline' },
-                target: "_blank"
-            }, "NIO Inc."),
-            " Wuhan, China"
-        ),
-        description:
-            "Developed NIO's third-generation station list and detail pages using Vue3, TypeScript, and Baidu Maps API. Implemented role-based access control for the Task Wizard page, enhancing system security. Collaborated effectively within a Jira-managed environment, utilizing Jenkins for deployment processes.",
+            "Constructing...",
         icon: React.createElement(FaVuejs),
         date: "2022 Aug - 2022 Dec",
     },
     {
-        title: "Frontend Assistant",
-        location: "Wuhan University | Wuhan, China",
+        title: "Ph.D in Engineering",
+        location: "The University of Tokyo, Japan",
         description:
-            "Developed and maintained Finknow, a Financial Knowledge Graph Query and Analysis Platform using umi (React framework) and Ant Design Pro. Utilized graphin, a React toolkit for graph analysis based on G6, to develop an Equity Network Penetration Graph, enhancing data visualization capabilities.",
-        icon: React.createElement(FaReact),
-        date: "2022 May - 2022 July",
+            "Constructing...",
+        icon: React.createElement(LuGraduationCap),
+        date: "2021 Oct - 2025 Mar",
     },
     {
-        title: "BA in Digital Publishing",
-        location: "Wuhan University, China",
+        title: "Master in Engineering",
+        location: "The University of Tokyo, Japan",
+        description: "Constructing...",
+        icon: React.createElement(LuGraduationCap),
+        date: "2019 Oct - 2021 Sep",
+    },
+    {
+        title: "BA in Mechanic Engineering",
+        location: "Dalian University of Technology, China",
         description:
-            "Graduated with a Bachelor of Arts in Digital Publishing, securing a GPA of 3.81/4.0. Gained foundational knowledge in digital media and publishing technologies.",
+            "Graduated with a Bachelor of Arts in Mechanic Engineering. Gained foundational knowledge in mechanical engineering and programming.",
         icon: React.createElement(LuGraduationCap),
         date: "2019 Sep - 2023 Jun",
     },
@@ -167,18 +159,13 @@ export const skillsData = [
     "TypeScript",
     "React",
     "Next",
-    "Vue2",
     "Vue3",
-    "Node",
-    "Express",
+    "NodeJS",
+    "Express.js",
     "Git",
     "Github",
     "Tailwind",
-    "Chakra UI",
-    "Boostrap",
-    "Prisma",
-    "MongoDB",
+    "MySQL",
     "Framer Motion",
-    "d3",
-    "UI/UX"
+    "ECharts",
 ] 
